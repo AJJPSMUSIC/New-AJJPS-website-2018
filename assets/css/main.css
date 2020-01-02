@@ -540,7 +540,7 @@
 		/* Main */
 
 			#main {
-				overflow: hidden;
+				overflow: visible;
 			}
 
 		/* Footer */
